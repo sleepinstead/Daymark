@@ -4,3 +4,8 @@ dist/
 .DS_Store
 
 # Keep data/database.sqlite portable with the project.
+data/
+.git
+tests/
+CLAUDE.md
+AGENTS.md
